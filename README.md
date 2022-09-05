@@ -1,0 +1,4 @@
+- 👋 ola meu nome é @luizhenrique2468
+- 👀 meu gmail de contato é lhdlc2306@gmail.com
+- 🌱 eu estou interessado em aprender a progamar
+- 💞️ aprendi a programar recentemente JavaScript e Scratch
